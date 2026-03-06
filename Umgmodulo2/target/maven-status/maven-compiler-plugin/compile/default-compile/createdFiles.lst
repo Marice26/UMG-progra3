@@ -1,0 +1,5 @@
+modelo\conexion.class
+modelo\AlumnosDAO.class
+com\mycompany\umgmodulo2\Umgmodulo2.class
+controlador\Alumnos.class
+vista\Principal.class
